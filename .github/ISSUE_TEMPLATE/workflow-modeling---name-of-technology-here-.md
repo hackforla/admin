@@ -14,8 +14,10 @@ We need to model the [NAME OF TECHNOLOGY HERE] management workflows, so that we 
 ### Action Items
 - [ ] Name all of the known workflows in this tool
 - [ ] Make appointment with member of admin team who is currently performing function
-- [ ] Record workflow demos
+- [ ] Record workflow demos\
+- [ ] Send admin assignee the link to the recording
 - [ ] Upload recording to Google Drive
+   - [ ] Notify Bonnie to remove file to free up her Zoom account space
 - [ ] Attach link to issue
 - [ ] Turn video transcript into step-by-step process confirmation
 - [ ] Perform feasibility analysis to determine if automation possible, considering technology, time, and cost
