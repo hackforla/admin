@@ -17,18 +17,18 @@ We need to model the workflows of [name technology] so that we can create guide 
   - [ ] Create folder for recordings
 - [ ] Setup complete
    - [ ] remove label: "Status: Setup Epic" add label "Status: Make Appt"
-- [x] Make appointment with member of admin team who is currently performing function (see resources).
+- [ ] Make appointment with member of admin team who is currently performing function (see resources).
   - [ ] remove label: "Status: Make Appt" add label "Status: Recording Tool Overview"
-- [x] Record reviewing the application with member of admin team who is currently performing function to determine all features we are using and might use.
+- [ ] Record reviewing the application with member of admin team who is currently performing function to determine all features we are using and might use.
    - [ ] remove label: "Recording Tool Overview" add label "Status: Upload Overview"
-- [x] Upload recording and transcripts to its folder.
+- [ ] Upload recording and transcripts to its folder.
       - [ ] remove label: Status: Upload Overview" and add label "Status: Identify Workflows
-- [x] create a list of workflows that will not need guides at this time and define the reason why (decision record).
-- [x] create a list of all workflows that will need guides. 
-- [x] create folders inside the guides and recordings folders for each workflow
-   - [x] remove label: "Status: Identify workflows - Admin" and add label: "Status: Create Issues from Epic"
-   - [x] create issues for each workflow (using the guides creation template).
-     - [x] remove label: "Status: Create Issues from Epic" add  label: "Status: Monitor Epic" and move to _Start Here_ column
+- [ ] create a list of workflows that will not need guides at this time and define the reason why (decision record).
+- [ ] create a list of all workflows that will need guides. 
+- [ ] create folders inside the guides and recordings folders for each workflow
+   - [ ] remove label: "Status: Identify workflows - Admin" and add label: "Status: Create Issues from Epic"
+   - [ ] create issues for each workflow (using the guides creation template).
+     - [ ] remove label: "Status: Create Issues from Epic" add  label: "Status: Monitor Epic" and move to _Start Here_ column
 - [ ] ~Add this epics label to the tracker.~ - on hold for now
 
 ### Resources
