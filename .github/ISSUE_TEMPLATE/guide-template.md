@@ -2,7 +2,7 @@
 name: Guide Template
 about: 'Instructions and tracking for making guides. '
 title: 'Guide: [Tool] : [Workflow] '
-labels: '0.2-Status: Make Appt'
+labels: '1.1-Status: Make Appt'
 assignees: ''
 
 ---
@@ -26,7 +26,7 @@ Creation of epic
 - [ ] Admin reviews the "As-Is" adding missing steps or notes
    - [ ] remove label: "Status: Review "As-Is"" add label: "Status: Draft Guide"
 - [ ] Make a Guide using guide template
-      - [ ] remove label: "Status: Draft Guide" and label: "Status: Review Guide"
+   - [ ] remove label: "Status: Draft Guide" and label: "Status: Review Guide"
 - [ ] Test guide with member of Admin team
 
 ### Resources
@@ -38,23 +38,24 @@ Creation of epic
 
 #### Folders
 - Recordings & Transcripts
-   - [Recordings general folder](https://drive.google.com/drive/folders/1dmX5df5TXm8F209O4-_BRmuW0NIcT-Ss)
-   - [INSERT NAME OF THE FOLDER Created during the Epic]
+   - 📁[Recordings general folder](https://drive.google.com/drive/folders/1dmX5df5TXm8F209O4-_BRmuW0NIcT-Ss)
+   - 📁[INSERT NAME OF THE FOLDER Created during the Epic]
    - Link to specific recording and transcript (add links to the emojis)
       - ⏺️
       - ✏️
 - Guides
   - [Guides general folder](https://drive.google.com/drive/folders/13aT7T3HblNidcwm2CMy7LQg-mAULL3Q7)
-   - [INSERT LINK TO EPIC FOLDER]
-   - [INSERT NAME OF THE FOLDER Created during the Epic]
+   - 📁[Make folder link to the EPIC FOLDER]
+   - 📁 [Make folder link to  NAME OF THE FOLDER Created during the Epic]
 
 #### Legend
 📁 = Folder
 ✏️= Transcription
 ⏺️ = Recording
-📝 = "As-Is"
-🎉= Guide
+📝 = "As-Is":  Transcript edited down to steps (no pictures, no focus on writing instructions for others)
+👷‍♀️ = Draft Guide Take the write up, put it in the Guide template and screen shots (or notes that screen shots are needed) and start working on the language.
+🎉= Completed Guide
 
 #### Location of draft guide.
 - Epic Issue #[insert number of Epic here]
-- [INSERT NAME OF DRAFT GUIDE]
+- 👷‍♀️[INSERT NAME OF DRAFT GUIDE]
