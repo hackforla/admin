@@ -22,7 +22,7 @@ We need to model the workflows of [name technology] so that we can create guide 
 - [ ] Record reviewing the application with member of admin team who is currently performing function to determine all features we are using and might use.
    - [ ] remove label: "Recording Tool Overview" add label "Status: Upload Overview"
 - [ ] Upload recording and transcripts to its folder.
-      - [ ] remove label: Status: Upload Overview" and add label "Status: Identify Workflows
+   - [ ] remove label: Status: Upload Overview" and add label "Status: Identify Workflows
 - [ ] create a list of workflows that will not need guides at this time and define the reason why (decision record).
 - [ ] create a list of all workflows that will need guides. 
 - [ ] create folders inside the guides and recordings folders for each workflow
