@@ -29,6 +29,8 @@ We need to model the workflows of [name technology] so that we can create guide 
    - [ ] remove label: "Status: Identify workflows - Admin" and add label: "Status: Create Issues from Epic"
    - [ ] create issues for each workflow (using the guides creation template).
      - [ ] remove label: "Status: Create Issues from Epic" add  label: "Status: Monitor Epic" and move to _Start Here_ column
+- [ ] Once the first guide is created, then use it to make a template for the other guides in this epic and link it below
+- [ ] once each guide issue is complete and the guide is done, put a link to it in the Guides list below
 - [ ] ~Add this epics label to the tracker.~ - on hold for now
 
 ### Resources
