@@ -12,8 +12,8 @@ Creation of epic
 
 ### Action Items
 - [ ] Add this issue to the following Projects (right side of this issue)
-   - [ ] Task Board
-   - [ ] Guide Tracker
+   - [ ] Repository: Task Board
+   - [ ] Organization: Guide Tracker
 - [ ] Make appointment with member of admin team who is currently performing function.
    - [ ] remove label: "Status: Make Appt" add label: "Status: Record"
 - [ ] Link folder for recording and guide in defined sections below (see Resources).
